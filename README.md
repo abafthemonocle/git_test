@@ -1,0 +1,1 @@
+This is Mel's first git project! (2nd time over - i'm relearning what I started 3 years ago with the goal of becoming a developer in the near future!! - DEC 2020 I will be moved back to Raleigh with my first dev job making $75K - $80K)
